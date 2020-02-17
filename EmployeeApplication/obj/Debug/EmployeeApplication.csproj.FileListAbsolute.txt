@@ -88,4 +88,3 @@ C:\Users\Doubtless\source\repos\EmployeeApplication\EmployeeApplication\bin\Micr
 C:\Users\Doubtless\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CopyComplete
 C:\Users\Doubtless\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.dll
 C:\Users\Doubtless\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
-C:\Users\Doubtless\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csprojAssemblyReference.cache

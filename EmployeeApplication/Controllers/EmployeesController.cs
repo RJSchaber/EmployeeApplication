@@ -25,11 +25,12 @@ namespace EmployeeApplication.Controllers
         }
 
         // GET: api/Employees/5
-        [Route("GetEmployeeById")]
         [ResponseType(typeof(Employee))]
+        [HttpGet]
         public IHttpActionResult GetEmployee(int id)
         {
             Employee employee = db.Employees.Find(id);
+
             if (employee == null)
             {
                 return NotFound();
